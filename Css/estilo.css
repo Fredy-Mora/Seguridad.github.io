@@ -324,7 +324,14 @@ font-family:Century725 Cn BT;
 color:#004669;
 text-align:center;
 } 
-#tipame{  /*propiedades titulo entre las dos imagenes */
+					/* Lectura 4*/
+#marcha{  /*propiedades titulo entre las dos imagenes */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
+#tecnicas{  /*propiedades titulo entre las dos imagenes */
 padding:25px;
 font-family:Century725 Cn BT;
 color:#004669;
