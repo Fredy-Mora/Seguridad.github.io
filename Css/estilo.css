@@ -1,6 +1,15 @@
 #fila {
 	margin: 0px; padding: 0px;
 }
+#fila1 {
+	margin: 0px; padding: 0px;
+}
+#fila2 {
+	margin: 0px; padding: 0px;
+}
+#fila3 {
+	margin: 0px; padding: 0px;
+}
 #unad{	/* propiedades logo institucional */
 	left: 0px;
 	margin: 0px;
@@ -39,7 +48,31 @@
 	margin: 10px;
 	float:right;
 }
-#title{  /*propiedades titulo entre las dos imagenes */
+#seginfo{  /*propiedades titulo entre las dos imagenes */
+	padding:25px;
+	font-family:Century725 Cn BT;
+	color:#004669;
+	text-align:center;
+}
+#tips{  /*propiedades titulo entre las dos imagenes */
+	padding:25px;
+	font-family:Century725 Cn BT;
+	color:#004669;
+	text-align:center;
+}
+#objetivos{  /*propiedades titulo entre las dos imagenes */
+	padding:25px;
+	font-family:Century725 Cn BT;
+	color:#004669;
+	text-align:center;
+}
+#general{  /*propiedades titulo entre las dos imagenes */
+	padding:25px;
+	font-family:Century725 Cn BT;
+	color:#004669;
+	text-align:center;
+}
+#objetivoovi{  /*propiedades titulo entre las dos imagenes */
 	padding:25px;
 	font-family:Century725 Cn BT;
 	color:#004669;
@@ -190,6 +223,36 @@
 	font-family:Century725 Cn BT;
 	color:#EAF2F8;
 }
-#justi {
+#p1 {
+text-align:justify;	
+}
+#p2 {
+text-align:justify;	
+}
+#p3 {
+text-align:justify;	
+}
+#p4 {
+text-align:justify;	
+}
+#p5 {
+text-align:justify;	
+}
+#p6 {
+text-align:justify;	
+}
+#p7 {
+text-align:justify;	
+}
+#p8 {
+text-align:justify;	
+}
+#p9 {
+text-align:justify;	
+}
+#p10 {
+text-align:justify;	
+}
+#p11 {
 text-align:justify;	
 }
