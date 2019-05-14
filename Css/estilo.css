@@ -263,7 +263,7 @@ text-align:justify;
 #p11 {
 text-align:justify;	
 }
-/* Lectura 1 */
+					/* Lectura 1 */
 #Lect1{  /*propiedades titulo entre las dos imagenes */
 	padding:25px;
 	font-family:Century725 Cn BT;
@@ -282,3 +282,22 @@ text-align:justify;
 	color:#004669;
 	text-align:center;
 }
+					/* Lectura 2*/
+#amenazas{  /*propiedades titulo entre las dos imagenes */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
+#actores{  /*propiedades titulo entre las dos imagenes */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
+#tipame{  /*propiedades titulo entre las dos imagenes */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
