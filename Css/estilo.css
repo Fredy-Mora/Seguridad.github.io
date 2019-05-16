@@ -139,12 +139,6 @@
 	height: 200px;
 	float:left;
 }
-#fm{
-	display:block;
-	margin:auto;
-	width: 200px;
-	height: 200px;
-}
 #act{
 	display:block;
 	margin:auto;
@@ -377,11 +371,23 @@ font-family:Century725 Cn BT;
 color:#004669;
 text-align:center;
 } 
+#java{
+	display:block;
+	margin:auto;
+	width: 200px;
+	height: 200px;
+}
 #integrante3{  /*propiedades titulo Integrante #3 */
 padding:25px;
 font-family:Century725 Cn BT;
 color:#004669;
 text-align:center;
+}
+#fm{
+	display:block;
+	margin:auto;
+	width: 200px;
+	height: 200px;
 }
 #contenido1{  /*propiedades titulo Integrante #3 */
 padding:25px;
