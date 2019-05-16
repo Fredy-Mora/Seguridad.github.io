@@ -397,6 +397,26 @@ text-align:center;
 width: 600px; 
 height: 300px;
 }	
+#kas1{  /*propiedades titulo kaspersky */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#kas{ 		/*Propiedades video kaspersky*/
+width: 600px; 
+height: 300px;
+}
+#amazon1{  /*propiedades titulo conceptos basicos */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}	
+#amazon{	/*Propiedades titulo conceptos basicos*/
+width: 600px; 
+height: 300px;
+}
 					/*Autores */
 #Im10{
 width: 180px;
