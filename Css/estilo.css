@@ -386,6 +386,17 @@ text-align:center;
 width: 600px; 
 height: 300px;
 }
+					/*Multimedia 2 */
+#forti1{  /*propiedades titulo fortinent */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#forti{		/*propiedades video fortinet */
+width: 600px; 
+height: 300px;
+}	
 					/*Autores */
 #Im10{
 width: 180px;
