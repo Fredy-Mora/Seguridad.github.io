@@ -355,7 +355,19 @@ color:#004669;
 text-align:center;
 } 
 					/*Autores */
-#integrante1{  /*propiedades titulo entre las dos imagenes */
+#integrante1{  /*propiedades titulo Integrante #1 */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#integrante2{  /*propiedades titulo Integrante #2 */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
+#integrante3{  /*propiedades titulo Integrante #3 */
 padding:25px;
 font-family:Century725 Cn BT;
 color:#004669;
