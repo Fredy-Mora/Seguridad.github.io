@@ -355,6 +355,16 @@ color:#004669;
 text-align:center;
 } 
 					/*Autores */
+#Im10{
+width: 180px;
+height: 180px;
+float:center;
+}
+#Im11{
+width: 220px;
+height: 200px;
+float:right;
+}
 #integrante1{  /*propiedades titulo Integrante #1 */
 padding:25px;
 font-family:Century725 Cn BT;
@@ -371,5 +381,20 @@ text-align:center;
 padding:25px;
 font-family:Century725 Cn BT;
 color:#004669;
+text-align:center;
+}
+#contenido1{  /*propiedades titulo Integrante #3 */
+padding:25px;
+color:#000;
+text-align:center;
+} 
+#contenido2{  /*propiedades titulo Integrante #3 */
+padding:25px;
+color:#000;
+text-align:center;
+} 
+#contenido3{  /*propiedades titulo Integrante #3 */
+padding:25px;
+color:#000;
 text-align:center;
 } 
