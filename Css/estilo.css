@@ -139,10 +139,6 @@
 	height: 200px;
 	float:left;
 }
-#act{
-	display:block;
-	margin:auto;
-}	
 .contenedor{
   height: 50%;
   
@@ -363,8 +359,8 @@ color:#004669;
 text-align:center;
 }
 #intro{		/*propiedades video Introduccion Seguridad */
-width: 600px; 
-height: 300px;
+width: 830px; 
+height: 600px;
 }	
 #document1{  /*propiedades titulo documental */
 padding:25px;
@@ -373,8 +369,8 @@ color:#004669;
 text-align:center;
 }
 #document{ 		/*Propiedades video Documental*/
-width: 600px; 
-height: 300px;
+width: 830px; 
+height: 600px;
 }
 #concepto1{  /*propiedades titulo conceptos basicos */
 padding:25px;
@@ -383,8 +379,8 @@ color:#004669;
 text-align:center;
 }	
 #concepto{	/*Propiedades titulo conceptos basicos*/
-width: 600px; 
-height: 300px;
+width: 830px; 
+height: 600px;
 }
 					/*Multimedia 2 */
 #forti1{  /*propiedades titulo fortinent */
@@ -394,8 +390,8 @@ color:#004669;
 text-align:center;
 }
 #forti{		/*propiedades video fortinet */
-width: 600px; 
-height: 300px;
+width: 830px; 
+height: 600px;
 }	
 #kas1{  /*propiedades titulo kaspersky */
 padding:25px;
@@ -404,8 +400,8 @@ color:#004669;
 text-align:center;
 }
 #kas{ 		/*Propiedades video kaspersky*/
-width: 600px; 
-height: 300px;
+width: 830px; 
+height: 600px;
 }
 #amazon1{  /*propiedades titulo conceptos basicos */
 padding:25px;
@@ -414,9 +410,41 @@ color:#004669;
 text-align:center;
 }	
 #amazon{	/*Propiedades titulo conceptos basicos*/
-width: 600px; 
-height: 300px;
+width: 830px; 
+height: 600px;
 }
+					/*Actividad 1*/
+#activi{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+height: 140px;
+}
+#sopa{  /*propiedades titulo sopa de letras */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#act1{
+	display:block;
+	float:center; 
+	width:830px;
+	height: 600px;
+}		
+#cruci{  /*propiedades titulo sopa de letras */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#act2{
+display:block;
+float:center; 
+width:830px;
+height: 600px;
+}					
 					/*Autores */
 #Im10{
 width: 180px;
