@@ -348,6 +348,26 @@ font-family:Century725 Cn BT;
 color:#004669;
 text-align:center;
 } 
+					/*Multimedia 1 */
+#banner{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+height: 200px;
+}		
+#intro{
+width: 600px; 
+height: 300px;
+}	
+#document{
+width: 600px; 
+height: 300px;
+}	
+#concepto{
+width: 600px; 
+height: 300px;
+}
 					/*Autores */
 #Im10{
 width: 180px;
