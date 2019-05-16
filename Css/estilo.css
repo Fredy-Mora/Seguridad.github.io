@@ -356,15 +356,33 @@ margin-right: auto;
 width: 500px;
 height: 200px;
 }		
-#intro{
+#intro1{  /*propiedades titulo introducción */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#intro{		/*propiedades video Introduccion Seguridad */
 width: 600px; 
 height: 300px;
 }	
-#document{
+#document1{  /*propiedades titulo documental */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#document{ 		/*Propiedades video Documental*/
 width: 600px; 
 height: 300px;
+}
+#concepto1{  /*propiedades titulo conceptos basicos */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
 }	
-#concepto{
+#concepto{	/*Propiedades titulo conceptos basicos*/
 width: 600px; 
 height: 300px;
 }
