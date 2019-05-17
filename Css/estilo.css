@@ -114,7 +114,7 @@
 #Im4{
 	display:block;
 	margin:auto;
-	width: 200px;
+	width: 180px;
 	height: 150px;
 }
 #Im5{
@@ -141,16 +141,6 @@
 	height: 200px;
 	float:left;
 }
-#fm{
-	display:block;
-	margin:auto;
-	width: 200px;
-	height: 200px;
-}
-#act{
-	display:block;
-	margin:auto;
-}	
 .contenedor{
   height: 50%;
   
@@ -342,5 +332,174 @@ text-align:center;
 padding:25px;
 font-family:Century725 Cn BT;
 color:#004669;
+text-align:center;
+} 
+#respaldo{  /*propiedades titulo entre las dos imagenes */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
+#proteccion{  /*propiedades titulo entre las dos imagenes */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
+					/*Multimedia 1 */
+#banner{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+height: 200px;
+}		
+#intro1{  /*propiedades titulo introducción */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#intro{		/*propiedades video Introduccion Seguridad */
+width: 830px; 
+height: 600px;
+}	
+#document1{  /*propiedades titulo documental */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#document{ 		/*Propiedades video Documental*/
+width: 830px; 
+height: 600px;
+}
+#concepto1{  /*propiedades titulo conceptos basicos */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}	
+#concepto{	/*Propiedades titulo conceptos basicos*/
+width: 830px; 
+height: 600px;
+}
+					/*Multimedia 2 */
+#forti1{  /*propiedades titulo fortinent */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#forti{		/*propiedades video fortinet */
+width: 830px; 
+height: 600px;
+}	
+#kas1{  /*propiedades titulo kaspersky */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#kas{ 		/*Propiedades video kaspersky*/
+width: 830px; 
+height: 600px;
+}
+#amazon1{  /*propiedades titulo conceptos basicos */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}	
+#amazon{	/*Propiedades titulo conceptos basicos*/
+width: 830px; 
+height: 600px;
+}
+					/*Actividad 1*/
+#activi{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+height: 140px;
+}
+#sopa{  /*propiedades titulo sopa de letras */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#act1{
+	display:block;
+	float:center; 
+	width:830px;
+	height: 600px;
+}		
+#cruci{  /*propiedades titulo sopa de letras */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#act2{
+display:block;
+float:center; 
+width:830px;
+height: 600px;
+}					
+					/*Autores */
+#Im10{
+width: 180px;
+height: 180px;
+float:center;
+}
+#Im11{
+width: 220px;
+height: 200px;
+float:right;
+}
+#integrante1{  /*propiedades titulo Integrante #1 */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#integrante2{  /*propiedades titulo Integrante #2 */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+} 
+#java{
+	display:block;
+	margin:auto;
+	width: 200px;
+	height: 200px;
+}
+#integrante3{  /*propiedades titulo Integrante #3 */
+padding:25px;
+font-family:Century725 Cn BT;
+color:#004669;
+text-align:center;
+}
+#fm{
+	display:block;
+	margin:auto;
+	width: 200px;
+	height: 200px;
+}
+#contenido1{  /*propiedades titulo Integrante #3 */
+padding:25px;
+color:#000;
+text-align:center;
+} 
+#contenido2{  /*propiedades titulo Integrante #3 */
+padding:25px;
+color:#000;
+text-align:center;
+} 
+#contenido3{  /*propiedades titulo Integrante #3 */
+padding:25px;
+color:#000;
 text-align:center;
 } 
